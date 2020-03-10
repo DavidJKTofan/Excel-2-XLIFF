@@ -28,3 +28,6 @@ Script that moves content from an Excel file (source) to a XLIFF file (target).
 
 ### Tip
 On a Mac you can get the pathname of a file with right-click on a file, then maintain the keyboard “option”-button pressed, and click on the “Copy FILENAME as Pathname” option in the menu.
+
+# About
+Recently started learning about Python – this is a personal side-project which I am working on for a friend.
