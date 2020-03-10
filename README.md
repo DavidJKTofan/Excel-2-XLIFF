@@ -11,6 +11,9 @@ Script that moves content from an Excel file (source) to a XLIFF file (target).
 
 ![Screenshot](https://raw.githubusercontent.com/DavidJKTofan/Excel-2-XLIFF/master/Screenshot.png)
 
+### Tip
+On a Mac you can get the pathname of a file with right-click on a file, then maintain the keyboard “option”-button pressed, and click on the “Copy FILENAME as Pathname” option in the menu.
+
 # What I am using 
 - macOS Catalina
 - Python 3.8.1
@@ -25,9 +28,6 @@ Script that moves content from an Excel file (source) to a XLIFF file (target).
 - Add drag&drop functionality instead of adding the pathname of the files.
 - Redesign the window to be more pleasant to the eye and user-friendly.
 - ...
-
-### Tip
-On a Mac you can get the pathname of a file with right-click on a file, then maintain the keyboard “option”-button pressed, and click on the “Copy FILENAME as Pathname” option in the menu.
 
 # About
 Recently started learning about Python – this is a personal side-project which I am working on for a friend.
