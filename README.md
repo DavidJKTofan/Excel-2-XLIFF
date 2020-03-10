@@ -9,7 +9,7 @@ Script that moves content from an Excel file (source) to a XLIFF file (target).
 5. Your new files will be saved on Desktop. 
 6. Review your new files to see if it worked – hope so.
 
-![Screenshot](https://raw.githubusercontent.com/DavidJKTofan/Excel-2-XLIFF/branch/path/to/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/DavidJKTofan/Excel-2-XLIFF/master/Screenshot.png)
 
 # What I am using 
 - macOS Catalina
