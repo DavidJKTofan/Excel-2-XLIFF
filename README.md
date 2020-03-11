@@ -28,6 +28,7 @@ On a Mac you can get the pathname of a file with right-click on a file, then mai
 - Add drag&drop functionality instead of adding the pathname of the files.
 - Redesign the window to be more pleasant to the eye and user-friendly.
 - ...
+- Feel free to <a href="https://www.linkedin.com/in/davidtofan/" target="_blank">contact me</a> and send me constructive feedback :)
 
 # About
 Recently started learning about Python – this is a personal side-project which I am working on for a friend.
